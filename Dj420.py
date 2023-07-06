@@ -259,7 +259,6 @@ def first():
 					pwv.append(frs+'@@@')
 					pwv.append(frs+'@12')
 					pwv.append(frs+'@123')
-                    pwv.append(frs+'@')
                     pwv.append(frs+'@@@@')
                     pwv.append(frs+'@#')
 			if 'mobile' in method:
